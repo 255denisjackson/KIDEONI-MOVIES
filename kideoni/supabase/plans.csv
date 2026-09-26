@@ -1,5 +1,0 @@
-name,slug,description,price,currency,duration_days,features,max_quality,is_active,sort_order
-Free,free,"Reels and a rotating selection of free movies.",0,TZS,3650,"[""Unlimited reels"",""Free movie selection"",""SD quality"",""Ads supported""]",SD,true,0
-Basic,basic,"Full movie library on one device.",4900,TZS,30,"[""Full movie library"",""HD quality"",""1 device"",""No ads""]",HD,true,1
-Premium,premium,"Everything, in HD, on up to 4 devices.",9900,TZS,30,"[""Full movie library"",""Full HD quality"",""4 devices"",""No ads"",""Early access""]",1080p,true,2
-Premium Yearly,premium-yearly,"Premium billed once a year — save two months.",99000,TZS,365,"[""Everything in Premium"",""2 months free"",""Priority support""]",1080p,true,3

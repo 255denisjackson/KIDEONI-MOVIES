@@ -1,2 +1,0 @@
-title,slug,synopsis,poster_url,backdrop_url,trailer_url,storage_path,duration_seconds,release_year,genres,cast_list,rating,is_free,is_published,is_featured
-Sample Movie Title,sample-movie-title,"A one- or two-sentence synopsis of the film.",https://example.com/poster.jpg,https://example.com/backdrop.jpg,https://example.com/trailer.mp4,movies/sample-movie-title.mp4,5400,2024,"{Drama,Romance}","{Actor One,Actor Two}",PG-13,false,true,false
